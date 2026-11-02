@@ -1,0 +1,14 @@
+{
+  "name": "seo-local",
+  "owner": {
+    "name": "Rafael Alves"
+  },
+  "description": "Skills de SEO técnico e local para Claude Code (PT-BR).",
+  "plugins": [
+    {
+      "name": "seo-local",
+      "source": "./",
+      "description": "SEO técnico e local: /seo-plan diagnostica o site, dá nota de 0 a 60 e aciona as skills que corrigem cada item."
+    }
+  ]
+}

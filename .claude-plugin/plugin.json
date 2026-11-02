@@ -1,0 +1,10 @@
+{
+  "name": "seo-local",
+  "version": "1.0.0",
+  "description": "SEO técnico e local para sites de pequenos negócios: diagnóstico com nota (seo-plan) e correção de favicon, meta tags, JSON-LD, sitemap/robots/llms.txt, Search Console e imagens.",
+  "author": { "name": "Rafael Alves" },
+  "homepage": "https://github.com/alvesrafa/seo-local",
+  "repository": "https://github.com/alvesrafa/seo-local",
+  "license": "MIT",
+  "keywords": ["seo", "local-seo", "json-ld", "open-graph", "sitemap", "llms-txt", "webp", "search-console"]
+}
